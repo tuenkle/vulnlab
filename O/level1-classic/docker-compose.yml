@@ -1,6 +1,6 @@
 version: '3.8'
 services:
-    php-apache:
+    java:
         container_name: vsnippet-o-level1-classic
         build:
             context: .
